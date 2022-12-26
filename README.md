@@ -1,11 +1,10 @@
- UFO Anaylsis
- Dana was to sign a webpage and dynamic talbe to provide an insigh on traveling UFO sights. In doing so a table was to be created to filter the data into the table on the city, state, country, shape of the UFO and comments. 
- In the Challege Dana created the fliter table to break down all of the cities, states and countries that viewed UFO at a particular date time and the shape of the UFO that the person viewed and how long did they view the UFO for at that sight. 
-
-##PURPOSE of WEBPAGE:
-
-  The purpose Dana created a webpage to see how someone might use the webpage to filter information on UFOs.  
-Dana goal was to designs an inteactive webpage that allowed readers to parse data around sights that viewed UFOs.  She was going to design the webpage with an HTML data and link with a presentation in Javascript. She wanted to create a storyboards for her readersinto a webpage by first outlining the elements of the webpage such as title, summary, article title and a table. She created the table with the page header, navagation bar, table, article and article paragraph. She wanted to investigate UFO sightings was it fact or fancy?  She choose the title "The Truth is Out There" The top section of the webpage was devoted to UFO sighting articles to draw in her readers and to ask for people to provided information. 
+Overview of project on UFO:
+UFO Analysis Dana was to sign a webpage and dynamic table to provide an insight on traveling UFO sights. In doing so a table was to be created to filter the data into the table on the city, state, country, shape of the UFO and comments. In the Challenge Dana created the filter table to break down all the cities, states and countries that viewed UFO at a particular date time and the shape of the UFO that the person viewed and how long did they view the UFO for at that sight.
+PURPOSE of WEBPAGE: 
+The purpose Dana created a webpage to see how someone might use the webpage to filter information on UFOs.
+Dana goal was to designs an interactive webpage that allowed readers to parse data around sights that viewed UFOs. She was going to design the webpage with an HTML data and link with a presentation in Javascript. She wanted to create a storyboard for her readers into a webpage by first outlining the elements of the webpage such as title, summary, article title and a table. She created the table with the page header, navigation bar, table, article, and article paragraph. She wanted to investigate UFO sightings was it fact or fancy? She chooses the title "The Truth is Out There" The top section of the webpage was devoted to UFO sighting articles to draw in her readers and to ask for people to provided information.
+![image](https://user-images.githubusercontent.com/107796290/209585535-0320082d-3341-4aa6-9411-8e93dd105435.png)
+s Out There" The top section of the webpage was devoted to UFO sighting articles to draw in her readers and to ask for people to provided information. 
 ![image](https://user-images.githubusercontent.com/107796290/203681091-46c62893-24ba-47ed-8ad9-049ef0b7b33f.png)
 
 ##TOOlS used for webpage and data:
